@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Admin Account",
+		"email": "admin@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Publisher Account",
+		"email": "publisher@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"name": "User Account",
+		"email": "user@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "John Doe",
+		"email": "john@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"name": "Kevin Smith",
+		"email": "kevin@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"name": "Mary Williams",
+		"email": "mary@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"name": "Sasha Ryan",
+		"email": "sasha@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+	},
+	{
+		"name": "Greg Harris",
+		"email": "greg@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Derek Glover",
+		"email": "derek@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Stephanie Hanson",
+		"email": "steph@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Jerry Wiliams",
+		"email": "jerry@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Maggie Johnson",
+		"email": "maggie@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Barry Dickens",
+		"email": "barry@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Ryan Bolin",
+		"email": "ryan@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"name": "Sara Kensing",
+		"email": "sara@gmail.com",
+		"role": "user",
+		"password": "123456"
+	}
+]

@@ -1,0 +1,100 @@
+[
+	{
+
+		"title": "Front End Web Development",
+		"description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 8,
+		"tuition": 8000,
+		"minimumSkill": "beginner",
+		"scholarShipAvailable": true,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a3",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Full Stack Web Development",
+		"description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+		"weeks": 12,
+		"tuition": 10000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": true,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a2",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Full Stack Web Dev",
+		"description": "In this course you will learn all about the front end with HTML, CSS and JavaScript. You will master tools like Git and Webpack and also learn C# and ASP.NET with Postgres",
+		"weeks": 10,
+		"tuition": 12000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": true,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a1",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "UI/UX",
+		"weeks": 12,
+		"tuition": 10000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": true,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a2",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Web Design & Development",
+		"description": "Get started building websites and web apps with HTML/CSS/JavaScript/PHP. We teach you",
+		"weeks": 10,
+		"tuition": 9000,
+		"minimumSkill": "beginner",
+		"scholarShipAvailable": true,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a1",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Data Science Program",
+		"description": "In this course you will learn Python for data science, machine learning and big data tools",
+		"weeks": 10,
+		"tuition": 12000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": false,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a0",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Web Development",
+		"description": "This course will teach you how to build high quality web applications with technologies like React, Node.js, PHP & Laravel",
+		"weeks": 8,
+		"tuition": 8000,
+		"minimumSkill": "beginner",
+		"scholarShipAvailable": false,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a3",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "Software QA",
+		"description": "This course will teach you everything you need to know about quality assurance",
+		"weeks": 6,
+		"tuition": 5000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": false,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a0",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	},
+	{
+
+		"title": "IOS Development",
+		"description": "Get started building mobile applications for IOS using Swift and other tools",
+		"weeks": 8,
+		"tuition": 6000,
+		"minimumSkill": "intermediate",
+		"scholarShipAvailable": false,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a3",
+		"user": "5e8ba8addc4d191cfe7a4b46"
+	}
+]

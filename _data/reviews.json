@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Learned a ton!",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 8,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a3",
+		"user": "5e8bacf5ab61312042cf2b7e"
+	},
+	{
+		"title": "Great bootcamp",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 8,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a2",
+		"user": "5e8bacb33705622024534dd2"
+	},
+	{
+		"title": "Got me a developer job",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 7,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a3",
+		"user": "5e8bacb33705622024534dd1"
+	},
+	{
+		"title": "Not that great",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 4,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a2",
+		"user": "5e8bacb33705622024534dd3"
+	},
+	{
+		"title": "Great overall experience",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 7,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a1",
+		"user": "5e8bacb33705622024534dd4"
+	},
+	{
+		"title": "Not worth the money",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 5,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a0",
+		"user": "5e8bacb33705622024534dce"
+	},
+	{
+		"title": "Best instructors",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 1,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a1",
+		"user": "5e8bacb33705622024534dd0"
+	},
+	{
+		"title": "Was worth the investment",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": 7,
+		"bootcamp": "5e8baa8c90006f1dfd1ab2a0",
+		"user": "5e8bacb33705622024534dcf"
+	}
+]
